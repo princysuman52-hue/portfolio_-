@@ -70,11 +70,11 @@ export const personalInfo = {
     { label: "Academic CGPA", value: "8.9 / 10", change: "B.Tech CSE (AI & ML)" }
   ],
   socials: {
-    github: "https://github.com/princysuman",
-    linkedin: "https://linkedin.com/in/princysuman",
+    github: "https://github.com/princysuman52-hue",
+    linkedin: "https://www.linkedin.com/in/princy-suman-a80541428/",
     leetcode: "https://leetcode.com/princysuman",
     codeforces: "https://codeforces.com/profile/princysuman",
-    instagram: "https://instagram.com/princysuman",
+    instagram: "https://www.instagram.com/prxc_i?gwpx=cHNwZGxqY2F4MnNi",
     email: "mailto:princysuman@gmail.com"
   }
 };
@@ -414,7 +414,7 @@ export const educationData = {
 };
 
 export const githubStats = {
-  username: "princysuman",
+  username: "princysuman52-hue",
   totalContributions: "540+ in 2024",
   longestStreak: "42 Days",
   currentStreak: "12 Days",

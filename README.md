@@ -122,3 +122,4 @@ This generates the optimized production bundle in the `dist/` directory ready fo
 All data is organized into a single configuration file:
 - **`src/data/portfolioData.ts`**: Edit your name, email, headline, social links, project descriptions, skills, and coding statistics here. Any change is reflected immediately throughout the site.
 - **`public/avatar.jpg`**: Replace with any new profile photo anytime.
+
