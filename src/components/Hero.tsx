@@ -254,8 +254,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume }) => {
                     <span className="text-[10px] text-slate-400">CGPA</span>
                   </div>
                   <div className="p-1.5 rounded-lg bg-white/[0.02]">
-                    <span className="block text-xs font-bold text-purple-300 font-mono">SIH'24</span>
-                    <span className="text-[10px] text-slate-400">Finalist</span>
+                    <span className="block text-xs font-bold text-purple-300 font-mono">Hackathon</span>
+                    <span className="text-[10px] text-slate-400">Participated</span>
                   </div>
                 </div>
 

@@ -121,44 +121,6 @@ export const Achievements: React.FC = () => {
             </div>
           </a>
 
-          {/* Smart India Hackathon (SIH) Card */}
-          <div className="group relative p-6 rounded-3xl bg-gradient-to-b from-[#161a29] to-[#0f111c] border border-purple-500/20 hover:border-purple-400/50 backdrop-blur-xl transition-all duration-300 hover:-translate-y-1.5 shadow-xl hover:shadow-purple-500/10">
-            <div className="flex items-center justify-between mb-4">
-              <div className="p-3 rounded-2xl bg-purple-500/10 border border-purple-500/20 text-purple-400 group-hover:scale-110 transition-transform">
-                <Trophy className="w-6 h-6" />
-              </div>
-              <span className="flex items-center gap-1 text-xs font-mono text-purple-300 bg-purple-500/10 px-2.5 py-1 rounded-full border border-purple-500/20">
-                <Sparkles className="w-3.5 h-3.5 text-purple-400" />
-                <span>SIH 2024</span>
-              </span>
-            </div>
-
-            <h3 className="text-xl font-display font-bold text-white group-hover:text-purple-300 transition-colors">
-              Smart India Hackathon
-            </h3>
-            <p className="text-xs text-slate-400 mt-1">National Innovation Competition</p>
-
-            <div className="mt-5 space-y-2 border-t border-white/[0.06] pt-4">
-              <div className="flex items-center justify-between text-xs">
-                <span className="text-slate-400">Role:</span>
-                <span className="font-mono font-bold text-white text-sm">Team Leader & AI Dev</span>
-              </div>
-              <div className="flex items-center justify-between text-xs">
-                <span className="text-slate-400">Standing:</span>
-                <span className="font-mono text-purple-400 font-semibold">Internal Finalist (Top 3)</span>
-              </div>
-              <div className="flex items-center justify-between text-xs">
-                <span className="text-slate-400">Domain:</span>
-                <span className="font-mono text-slate-300">Computer Vision & CleanTech</span>
-              </div>
-            </div>
-
-            <div className="mt-5 flex items-center justify-end text-xs font-semibold text-purple-400 gap-1">
-              <span>Verified Participation</span>
-              <CheckCircle className="w-3.5 h-3.5 text-purple-400" />
-            </div>
-          </div>
-
         </div>
 
         {/* Certifications and Additional Accolades Grid */}

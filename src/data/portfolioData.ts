@@ -66,7 +66,7 @@ export const personalInfo = {
   stats: [
     { label: "DSA Problems Solved", value: "320+", change: "Across LeetCode & GFG" },
     { label: "Projects Completed", value: "15+", change: "AI & Full Stack" },
-    { label: "Hackathons & Events", value: "5+", change: "SIH Finalist" },
+    { label: "Hackathons & Events", value: "5+", change: "Hackathons Participated" },
     { label: "Academic CGPA", value: "8.9 / 10", change: "B.Tech CSE (AI & ML)" }
   ],
   socials: {
@@ -233,7 +233,7 @@ export const projectsData: Project[] = [
     category: "hackathon",
     image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?q=80&w=1200&auto=format&fit=crop",
     tags: ["Python", "YOLOv8", "OpenCV", "Flask", "React", "IoT"],
-    metrics: "SIH Internal Hackathon Finalist",
+    metrics: "College Internal Hackathon",
     highlights: [
       "Trained custom YOLOv8 model on 5,000+ localized waste items",
       "Real-time webcam inference running at 35+ FPS on commodity hardware",
@@ -266,9 +266,9 @@ export const projectsData: Project[] = [
 export const experienceData: ExperienceItem[] = [
   {
     id: "exp-1",
-    title: "Smart India Hackathon (SIH) Finalist",
+    title: "College Hackathon — AI & IoT Waste Sorter",
     role: "Team Lead & AI Developer",
-    organization: "Ministry of Education Innovation Cell / SIH",
+    organization: "College Internal Hackathon",
     period: "2024",
     location: "India",
     badge: "National Hackathon",
@@ -339,11 +339,11 @@ export const achievementsData: AchievementItem[] = [
   },
   {
     id: "ach-2",
-    title: "Smart India Hackathon (SIH) Internal Finalist",
-    organization: "Government of India / College Cell",
+    title: "College Internal Hackathon Participation",
+    organization: "Engineering Institute",
     date: "2024",
-    description: "Selected among top teams out of 80+ competitors for innovative AI-assisted civic automation solution.",
-    metric: "Ranked Top 3",
+    description: "Participated in college internal hackathon with an AI-assisted civic automation prototype.",
+    metric: "Participated",
     link: "https://sih.gov.in",
     type: "hackathon"
   },
